@@ -1,7 +1,7 @@
 
 Official implementation of:
 
-**Robust Emotion Recognition via Bi-Level Self-Supervised Continual Learning on Unlabeled EEG Data**
+**Robust Emotion Recognition via Bi-Level Self-Supervised Continual Learning**
 
 ## Overview
 
