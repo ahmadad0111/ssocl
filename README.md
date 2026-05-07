@@ -65,4 +65,14 @@ DEAP
 AMIGOS
 PPB-EMO
 
+
+## Citation
+@article{ssocl,
+  title={Robust Emotion Recognition via Bi-Level Self-Supervised Continual Learning on Unlabeled EEG Data},
+  author={...},
+  journal={},
+  year={}
+}
+
+
 Please download the datasets from their official sources and place them in the appropriate dataset directory.
