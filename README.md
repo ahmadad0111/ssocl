@@ -34,3 +34,35 @@ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
+## Training
+
+Run SSOCL
+
+```bash
+python main.py
+```
+
+Run with Weights & Biases logging
+```bash
+python main.py --use_wandb
+```
+
+Example
+
+```bash
+python main.py \
+    --dataset AMIGOS \
+    --source_data PPB_EMO \
+    --buffer_size 200 \
+    --temperature 10 \
+    --use_wandb
+```
+##Datasets
+The following datasets are used:
+
+DEAP
+AMIGOS
+PPB-EMO
+
+Please download the datasets from their official sources and place them in the appropriate dataset directory.
