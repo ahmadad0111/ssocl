@@ -25,5 +25,5 @@ Create environment:
 
 ```bash
 conda create -n torchlab python=3.10
-conda activate torchlab```
+conda activate torchlab
 
