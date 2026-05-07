@@ -75,4 +75,4 @@ PPB-EMO
 }
 
 
-Please download the datasets from their official sources and place them in the appropriate dataset directory.
+Please download the datasets from their official sources and place them in "./data"
